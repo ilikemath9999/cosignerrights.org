@@ -1,21 +1,23 @@
-# Cosigner Rights in Bankruptcy -- Cosigner Release & Protection [2026] -- Cosignerrights
+# Cosigner Rights in Bankruptcy - Cosigner Release & Protection [2026] - Cosignerrights
 > What happens to cosigners when you file bankruptcy? Co-debtor stay, Chapter 13 protection, and cosigner liability. 2026 guide.
 
 ## About
 cosignerrights.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Auto Loan Cosigner -- Risks, Repossession, and Deficiency -- Cosignerrights: https://cosignerrights.org/auto-loan-cosigner.html
-- Codebtor Stay in Chapter 13 -- Protecting Cosigners During Bankruptcy -- Cosignerrights: https://cosignerrights.org/codebtor-stay.html
-- Cosigner and Bankruptcy -- What Happens to the Other Person's Debt -- Cosignerrights: https://cosignerrights.org/cosigner-and-bankruptcy.html
-- Cosigner Protections by State -- Know Your Rights -- Cosignerrights: https://cosignerrights.org/cosigner-protections-by-state.html
-- Cosigner Release Programs -- How to Get Off the Loan -- Cosignerrights: https://cosignerrights.org/cosigner-release.html
-- Cosigner vs. Co-Borrower -- Know the Difference -- Cosignerrights: https://cosignerrights.org/cosigner-vs-co-borrower.html
-- Cosigner Rights in Bankruptcy -- Cosigner Release & Protection [2026] -- Cosignerrights: https://cosignerrights.org/
-- Cosigner Liability Limits -- How Much Can You Actually Owe? -- Cosignerrights: https://cosignerrights.org/liability-limits.html
-- How to Remove Yourself as a Cosigner -- Cosignerrights: https://cosignerrights.org/removing-cosigner.html
-- Student Loan Cosigner Rights and Risks -- Cosignerrights: https://cosignerrights.org/student-loan-cosigner.html
-- Cosigner Release for Student Loans -- How to Remove a Cosigner [2026] -- Cosignerrights: https://cosignerrights.org/cosigner-release-student-loans.html
+- Auto Loan Cosigner - Risks, Repossession, and Deficiency - Cosignerrights: https://cosignerrights.org/auto-loan-cosigner.html
+- Codebtor Stay in Chapter 13 - Protecting Cosigners During Bankruptcy - Cosignerrights: https://cosignerrights.org/codebtor-stay.html
+- Cosigner and Bankruptcy - What Happens to the Other Person's Debt - Cosignerrights: https://cosignerrights.org/cosigner-and-bankruptcy.html
+- Cosigner Protections by State - Know Your Rights - Cosignerrights: https://cosignerrights.org/cosigner-protections-by-state.html
+- Cosigner Release for Student Loans - How to Remove a Cosigner [2026] - Cosignerrights: https://cosignerrights.org/cosigner-release-student-loans.html
+- Cosigner Release Programs - How to Get Off the Loan - Cosignerrights: https://cosignerrights.org/cosigner-release.html
+- Cosigner vs. Co-Borrower - Know the Difference - Cosignerrights: https://cosignerrights.org/cosigner-vs-co-borrower.html
+- Cosigner Rights in Bankruptcy - Cosigner Release & Protection [2026] - Cosignerrights: https://cosignerrights.org/
+- Cosigner Liability Limits - How Much Can You Actually Owe? - Cosignerrights: https://cosignerrights.org/liability-limits.html
+- How to Protect Yourself as a Cosigner in Bankruptcy - Cosignerrights: https://cosignerrights.org/protect-yourself.html
+- How to Remove Yourself as a Cosigner - Cosignerrights: https://cosignerrights.org/removing-cosigner.html
+- Student Loan Cosigner Rights and Risks - Cosignerrights: https://cosignerrights.org/student-loan-cosigner.html
+- Privacy Policy: https://cosignerrights.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

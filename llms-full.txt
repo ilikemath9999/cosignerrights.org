@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Auto Loan Cosigner -- Risks, Repossession, and Deficiency -- Cosignerrights
+## Auto Loan Cosigner - Risks, Repossession, and Deficiency - Cosignerrights
 Source: https://cosignerrights.org/auto-loan-cosigner.html
 
 Auto Loan Cosigner Risks
@@ -17,13 +17,13 @@ Home » Auto Loan Cosigner Risks
 
 Cosigner Liability on Auto Loans
 
-When you cosign an auto loan, you're guaranteeing the full balance. If the primary borrower stops paying, the lender can pursue you for every missed payment, late fee, and the full remaining balance. Unlike a co-borrower, you typically have no ownership interest in the vehicle -- you're paying for a car you can't drive.
+When you cosign an auto loan, you're guaranteeing the full balance. If the primary borrower stops paying, the lender can pursue you for every missed payment, late fee, and the full remaining balance. Unlike a co-borrower, you typically have no ownership interest in the vehicle - you're paying for a car you can't drive.
 
 The lender doesn't have to pursue the primary borrower first. They can come directly to you the moment a payment is missed. Some lenders are more aggressive than others, but all have the legal right to hold you fully responsible.
 
 Repossession and Deficiency Balances
 
-If the car is repossessed, you might think your liability ends. It doesn't. After repossession, the lender sells the car (usually at auction for well below market value) and pursues both the borrower and cosigner for the deficiency balance -- the difference between the sale price and the loan balance, plus repossession costs and fees.
+If the car is repossessed, you might think your liability ends. It doesn't. After repossession, the lender sells the car (usually at auction for well below market value) and pursues both the borrower and cosigner for the deficiency balance - the difference between the sale price and the loan balance, plus repossession costs and fees.
 
 Example: Loan balance of $18,000. Car sold at auction for $10,000. Repossession, auction, and attorney fees of $3,000. Deficiency balance: $11,000. The cosigner is liable for this entire amount, on a car they never drove and that no longer exists. This deficiency can result in a default judgment and wage garnishment.
 
@@ -37,7 +37,7 @@ Frequently Asked Questions
 
 If the car is repossessed, is my cosigner liability over?
 
-No. You're liable for the deficiency balance -- the difference between the loan balance and the sale price, plus fees. Deficiency balances can be thousands of dollars. The lender can sue you and garnish your wages for this amount.
+No. You're liable for the deficiency balance - the difference between the loan balance and the sale price, plus fees. Deficiency balances can be thousands of dollars. The lender can sue you and garnish your wages for this amount.
 
 Can I take the car from the primary borrower if they stop paying?
 
@@ -75,10 +75,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -156,7 +156,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Codebtor Stay in Chapter 13 -- Protecting Cosigners During Bankruptcy -- Cosignerrights
+## Codebtor Stay in Chapter 13 - Protecting Cosigners During Bankruptcy - Cosignerrights
 Source: https://cosignerrights.org/codebtor-stay.html
 
 The Codebtor Stay in Chapter 13
@@ -173,7 +173,7 @@ The codebtor stay runs concurrently with the debtor's automatic stay. It prevent
 
 Limits and Exceptions
 
-The codebtor stay has important limits: 1. Consumer debts only -- business debts are not covered. 2. Plan must address the debt -- if the debtor's plan doesn't propose to pay the cosigned debt, the stay may not apply. 3. Creditors can move to lift -- a creditor can file a motion to lift the codebtor stay if the debtor's plan doesn't pay their claim in full, the codebtor received the loan proceeds, or irreparable harm would result.
+The codebtor stay has important limits: 1. Consumer debts only - business debts are not covered. 2. Plan must address the debt - if the debtor's plan doesn't propose to pay the cosigned debt, the stay may not apply. 3. Creditors can move to lift - a creditor can file a motion to lift the codebtor stay if the debtor's plan doesn't pay their claim in full, the codebtor received the loan proceeds, or irreparable harm would result.
 
 If the stay is lifted, the creditor can proceed against the cosigner while the debtor continues in Chapter 13. If the debtor's case is dismissed, the codebtor stay dissolves immediately and the creditor can pursue the cosigner for any unpaid balance.
 
@@ -191,7 +191,7 @@ The codebtor stay applies to consumer debts being addressed in the Chapter 13 pl
 
 What happens to the codebtor stay if the Chapter 13 case is dismissed?
 
-The codebtor stay dissolves immediately upon dismissal. The creditor can then pursue the cosigner for the full remaining balance, plus any accrued interest. This is one reason completing the Chapter 13 plan is important -- dismissal exposes both the debtor and the cosigner.
+The codebtor stay dissolves immediately upon dismissal. The creditor can then pursue the cosigner for the full remaining balance, plus any accrued interest. This is one reason completing the Chapter 13 plan is important - dismissal exposes both the debtor and the cosigner.
 
 Can I file Chapter 13 specifically to protect my cosigner?
 
@@ -225,10 +225,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -306,7 +306,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Cosigner and Bankruptcy -- What Happens to the Other Person's Debt -- Cosignerrights
+## Cosigner and Bankruptcy - What Happens to the Other Person's Debt - Cosignerrights
 Source: https://cosignerrights.org/cosigner-and-bankruptcy.html
 
 Cosigner and Bankruptcy
@@ -317,7 +317,7 @@ Home » Cosigner and Bankruptcy
 
 When the Primary Borrower Files Bankruptcy
 
-If the primary borrower files Chapter 7 and receives a discharge, their obligation on the cosigned debt is eliminated. However, your liability as cosigner remains fully intact. The creditor will come directly to you for 100% of the remaining balance. The discharge only protects the person who filed -- not their cosigner.
+If the primary borrower files Chapter 7 and receives a discharge, their obligation on the cosigned debt is eliminated. However, your liability as cosigner remains fully intact. The creditor will come directly to you for 100% of the remaining balance. The discharge only protects the person who filed - not their cosigner.
 
 This is one of the most devastating consequences of cosigning. The person you helped gets debt relief while you're stuck with the entire balance. There's no legal mechanism to shift the borrower's discharged liability back to them.
 
@@ -329,7 +329,7 @@ However, the codebtor stay has limits. It doesn't apply to: business debts, debt
 
 When the Cosigner Files Bankruptcy
 
-If you as the cosigner file bankruptcy, your liability is discharged but the primary borrower remains liable. This may be necessary if the primary borrower defaulted and you can't afford the payments. Your bankruptcy filing doesn't appear on the primary borrower's credit report -- only yours.
+If you as the cosigner file bankruptcy, your liability is discharged but the primary borrower remains liable. This may be necessary if the primary borrower defaulted and you can't afford the payments. Your bankruptcy filing doesn't appear on the primary borrower's credit report - only yours.
 
 Before filing bankruptcy solely because of cosigned debt, explore other options: cosigner release, refinancing, or negotiating a settlement. Bankruptcy affects your credit for 7-10 years. If the cosigned debt is your only significant liability, the other options may be preferable.
 
@@ -341,7 +341,7 @@ No. Student loans are generally not dischargeable in bankruptcy (with limited ex
 
 Does the codebtor stay apply to all cosigned debts?
 
-Only to consumer debts in Chapter 13. Business debts, debts incurred in the ordinary course of business, and certain other categories are not covered. The stay also only lasts during the Chapter 13 plan period -- typically 3-5 years.
+Only to consumer debts in Chapter 13. Business debts, debts incurred in the ordinary course of business, and certain other categories are not covered. The stay also only lasts during the Chapter 13 plan period - typically 3-5 years.
 
 Can I file bankruptcy just to discharge a cosigned debt?
 
@@ -375,10 +375,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -456,7 +456,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Cosigner Protections by State -- Know Your Rights -- Cosignerrights
+## Cosigner Protections by State - Know Your Rights - Cosignerrights
 Source: https://cosignerrights.org/cosigner-protections-by-state.html
 
 Cosigner Protections by State
@@ -475,11 +475,11 @@ States With Strong Cosigner Protections
 
 California: Creditors must send a cosigner written notice within 30 days of the primary borrower's default before pursuing the cosigner. New York: Similar notice requirements. Illinois: Cosigners cannot waive their rights to notice of default. Wisconsin: Strong community property protections may limit cosigner exposure for married couples.
 
-Even in states with notice requirements, the protection is procedural -- the creditor must give notice, but they can still pursue you for the full amount after proper notice. The notice gives you time to address the situation before collection escalates.
+Even in states with notice requirements, the protection is procedural - the creditor must give notice, but they can still pursue you for the full amount after proper notice. The notice gives you time to address the situation before collection escalates.
 
 Cosigner Rights in Collections
 
-When a cosigned debt goes to collections, you have the same rights as any debtor under the FDCPA: right to validation, right to dispute, right to cease communication. You also have the right to be informed of default -- if the creditor fails to notify you that the primary borrower stopped paying, you may have a defense to certain late fees and penalties.
+When a cosigned debt goes to collections, you have the same rights as any debtor under the FDCPA: right to validation, right to dispute, right to cease communication. You also have the right to be informed of default - if the creditor fails to notify you that the primary borrower stopped paying, you may have a defense to certain late fees and penalties.
 
 If the debt is beyond the statute of limitations, you can assert that defense as a cosigner. The SOL typically runs from the last payment by either party, so if neither you nor the primary borrower has paid, the clock may have expired.
 
@@ -491,7 +491,7 @@ In most states, the creditor is required to notify the cosigner of default withi
 
 Can I sue the primary borrower if I have to pay?
 
-Yes. If you pay the cosigned debt, you have a right of subrogation -- a legal right to recover from the primary borrower. You can sue them for the amount you paid. However, if they were unable to pay the creditor, they may be unable to pay you.
+Yes. If you pay the cosigned debt, you have a right of subrogation - a legal right to recover from the primary borrower. You can sue them for the amount you paid. However, if they were unable to pay the creditor, they may be unable to pay you.
 
 What happens to cosigner liability after 7 years?
 
@@ -525,10 +525,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -606,7 +606,88 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Cosigner Release Programs -- How to Get Off the Loan -- Cosignerrights
+## Cosigner Release for Student Loans - How to Remove a Cosigner [2026] - Cosignerrights
+Source: https://cosignerrights.org/cosigner-release-student-loans.html
+
+Cosigner Release for Student Loans
+
+How to remove a cosigner from your student loans - and what to do if the lender says no
+
+Home » Cosigner Release » Student Loans
+
+What Is Cosigner Release for Student Loans?
+
+Cosigner release is a process where the lender removes the cosigner from a private student loan after the primary borrower meets certain conditions. This frees the cosigner from liability - if the borrower defaults, the lender can no longer pursue the cosigner for payment.
+
+Important: federal student loans do not have cosigners. Federal Parent PLUS loans are the parent's obligation, not cosigned. Cosigner release only applies to private student loans from lenders like Sallie Mae, Discover, Citizens Bank, Earnest, and others.
+
+Lender Cosigner Release Requirements
+
+Each lender sets its own cosigner release criteria. Common requirements include:
+
+12-48 consecutive on-time payments (most common: 24 or 36 months)
+
+Primary borrower meets minimum credit score (typically 670-700)
+
+Primary borrower meets income requirements (debt-to-income ratio)
+
+No delinquencies on any credit account (not just the student loan)
+
+Loan must be in active repayment (not in deferment or forbearance)
+
+LenderPayments RequiredCredit ScoreAuto Release?
+
+Sallie Mae12 consecutiveNot disclosedNo - must apply
+
+Discover24 consecutiveNot disclosedNo - must apply
+
+Citizens Bank36 consecutiveNot disclosedNo - must apply
+
+College Ave24 consecutiveNot disclosedNo - must apply
+
+If Cosigner Release Is Denied: Alternatives
+
+Refinancing is often easier than cosigner release. The primary borrower applies for a new loan in their name only from a different lender, using the proceeds to pay off the cosigned loan. Lenders like SoFi, Earnest, and Splash Financial offer student loan refinancing without a cosigner if you meet their credit and income requirements.
+
+Other options: accelerate payments to reduce balance faster, wait and reapply after building more credit history, or consult a bankruptcy attorney if the debt is causing severe financial hardship.
+
+Cosigner Liability and Bankruptcy
+
+If the primary borrower files bankruptcy, the cosigner remains liable for the full loan balance. Private student loans may be dischargeable in bankruptcy under the Brunner test (undue hardship), but even if the borrower obtains a discharge, the cosigner's obligation survives. The cosigner would need to file their own bankruptcy to discharge their liability.
+
+Chapter 13 bankruptcy provides a codebtor stay that temporarily protects cosigners from collection during the case. Chapter 7 does not offer this protection.
+
+Frequently Asked Questions
+
+How do I get a cosigner release on my student loans?
+
+Contact your lender to request a cosigner release application. You must typically have made 12-48 consecutive on-time payments, meet a minimum credit score, and demonstrate sufficient income. The process takes 2-4 weeks. If denied, refinancing in your name only is an alternative.
+
+What percentage of cosigner release applications are approved?
+
+Approval rates are low - consumer advocates estimate 10-20% for some lenders. Lenders benefit from keeping cosigners as additional security. Be prepared for denial and have a backup plan such as refinancing.
+
+Can I remove a cosigner from a federal student loan?
+
+Federal student loans do not have cosigners. Parent PLUS loans are the parent's sole obligation. The only way to move a Parent PLUS loan to the student is through refinancing with a private lender.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal consumer protection law and lender-published cosigner release policies. This is educational content, not legal advice.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Codebtor Stay
+Student Loan Forgiveness
+
+Free education. Not legal advice. A project of the Open Bankruptcy Project.
+
+---
+
+## Cosigner Release Programs - How to Get Off the Loan - Cosignerrights
 Source: https://cosignerrights.org/cosigner-release.html
 
 Cosigner Release Programs
@@ -629,7 +710,7 @@ The process typically takes 2-4 weeks. If denied, the lender should explain why.
 
 If Release Is Denied
 
-Option 1: Refinance. The primary borrower applies to refinance the loan in their name only with a different lender. This is often easier than cosigner release because different lenders have different qualification standards. Option 2: Wait and reapply. If the denial was for insufficient credit or payment history, wait 6-12 months and try again. Option 3: Extra payments. Accelerating repayment reduces the balance and your exposure. Option 4: Negotiate. Contact the lender's customer service and explain the situation -- sometimes exceptions are made.
+Option 1: Refinance. The primary borrower applies to refinance the loan in their name only with a different lender. This is often easier than cosigner release because different lenders have different qualification standards. Option 2: Wait and reapply. If the denial was for insufficient credit or payment history, wait 6-12 months and try again. Option 3: Extra payments. Accelerating repayment reduces the balance and your exposure. Option 4: Negotiate. Contact the lender's customer service and explain the situation - sometimes exceptions are made.
 
 If none of these options work and you're struggling financially because of cosigned debt, consult with a bankruptcy attorney about your options. Bankruptcy can discharge cosigner liability (though the primary borrower remains liable).
 
@@ -637,7 +718,7 @@ Frequently Asked Questions
 
 What percentage of cosigner release applications are approved?
 
-Public data is limited, but consumer advocates report approval rates as low as 10-20% for some lenders. Lenders have strong incentive to keep cosigners on the hook -- the cosigner provides additional security for the loan. Be prepared for potential denial and have a backup plan.
+Public data is limited, but consumer advocates report approval rates as low as 10-20% for some lenders. Lenders have strong incentive to keep cosigners on the hook - the cosigner provides additional security for the loan. Be prepared for potential denial and have a backup plan.
 
 Can I apply for cosigner release more than once?
 
@@ -645,7 +726,7 @@ Yes. Most lenders allow reapplication after a waiting period (typically 6-12 mon
 
 Does cosigner release affect the primary borrower's interest rate?
 
-Usually not. Cosigner release typically doesn't change the loan terms -- same rate, same monthly payment. The only change is that the cosigner is removed from liability. However, some lenders reserve the right to adjust terms, so check the release agreement carefully.
+Usually not. Cosigner release typically doesn't change the loan terms - same rate, same monthly payment. The only change is that the cosigner is removed from liability. However, some lenders reserve the right to adjust terms, so check the release agreement carefully.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -675,10 +756,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -756,7 +837,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Cosigner vs. Co-Borrower -- Know the Difference -- Cosignerrights
+## Cosigner vs. Co-Borrower - Know the Difference - Cosignerrights
 Source: https://cosignerrights.org/cosigner-vs-co-borrower.html
 
 Cosigner vs. Co-Borrower
@@ -769,17 +850,17 @@ Key Differences
 
 A cosigner guarantees someone else's debt. They agree to pay if the primary borrower defaults, but they don't receive the loan proceeds or own the purchased asset. A co-borrower (also called a joint borrower) is equally responsible for the debt AND has equal ownership of whatever was purchased.
 
-This distinction matters for liability, asset ownership, tax consequences, and what happens in divorce or bankruptcy. Cosigners have liability without ownership -- the worst position to be in if something goes wrong.
+This distinction matters for liability, asset ownership, tax consequences, and what happens in divorce or bankruptcy. Cosigners have liability without ownership - the worst position to be in if something goes wrong.
 
 Credit Impact for Each Role
 
 Cosigners: The full loan balance appears on your credit report. Late payments by the primary borrower damage your credit score. You get no credit benefit from the asset (like building equity in a home). Co-borrowers: Same credit reporting, but you also benefit from the asset. Both borrowers build credit history equally.
 
-For cosigners, the credit risk is entirely one-sided. If the primary borrower pays on time, your credit benefits. If they don't, your credit suffers -- and you have no control over their behavior.
+For cosigners, the credit risk is entirely one-sided. If the primary borrower pays on time, your credit benefits. If they don't, your credit suffers - and you have no control over their behavior.
 
 Legal Liability
 
-Both cosigners and co-borrowers are jointly and severally liable for the entire debt. This means the creditor can pursue either party for the full amount -- they don't have to split it or go after the primary borrower first. If the primary borrower stops paying, the creditor can come directly to the cosigner for 100% of the balance.
+Both cosigners and co-borrowers are jointly and severally liable for the entire debt. This means the creditor can pursue either party for the full amount - they don't have to split it or go after the primary borrower first. If the primary borrower stops paying, the creditor can come directly to the cosigner for 100% of the balance.
 
 The only practical difference: co-borrowers have an ownership interest in the collateral. If a co-borrowed auto loan defaults, both borrowers have rights to the vehicle. A cosigner on an auto loan has no rights to the car but full liability for the loan.
 
@@ -825,10 +906,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -906,20 +987,22 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Cosigner Rights in Bankruptcy -- Cosigner Release & Protection [2026] -- Cosignerrights
+## Cosigner Rights in Bankruptcy - Cosigner Release & Protection [2026] - Cosignerrights
 Source: https://cosignerrights.org/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
-Cosigner Rights in Bankruptcy -- Protection & Cosigner Release
+Cosigner Rights in Bankruptcy - Protection & Cosigner Release
 
 What Every Cosigner Needs to Know
 
 What Cosigning Really Means
 
-When you cosign a loan, you are not simply vouching for someone. You are agreeing to pay the full debt if the primary borrower doesn't. Legally, you and the primary borrower are equally responsible for the entire balance -- creditors can pursue either of you, or both of you, for the full amount. There is no legal requirement that the creditor try to collect from the primary borrower first.
+When you cosign a loan, you are not simply vouching for someone. You are agreeing to pay the full debt if the primary borrower doesn't. Legally, you and the primary borrower are equally responsible for the entire balance - creditors can pursue either of you, or both of you, for the full amount. There is no legal requirement that the creditor try to collect from the primary borrower first.
 
-Studies show that as many as 75% of cosigners end up making payments on the cosigned debt. This is not a formality -- it is a real financial obligation with serious consequences.
+Studies show that as many as 75% of cosigners end up making payments on the cosigned debt. This is not a formality - it is a real financial obligation with serious consequences.
 
 Your Rights as a Cosigner
 
@@ -929,19 +1012,19 @@ However, you generally do NOT have the right to: cancel your cosigner obligation
 
 When the Primary Borrower Defaults
 
-If the primary borrower stops paying, the creditor can: come after you for the full balance plus late fees and interest, report the delinquency on your credit report, sue you, garnish your wages, and levy your bank account. This can happen even if you had no idea the borrower stopped paying -- some lenders go months before notifying the cosigner.
+If the primary borrower stops paying, the creditor can: come after you for the full balance plus late fees and interest, report the delinquency on your credit report, sue you, garnish your wages, and levy your bank account. This can happen even if you had no idea the borrower stopped paying - some lenders go months before notifying the cosigner.
 
 Your recourse against the primary borrower is limited. You can sue them for contribution (their share of the debt), but if they have no money, winning that lawsuit is meaningless. Prevention is far more important than cure.
 
 Cosigner Release Programs
 
-Some lenders (particularly student loan servicers) offer cosigner release after a period of on-time payments by the primary borrower -- typically 12-48 consecutive payments. Requirements usually include: the primary borrower must meet credit criteria independently, all payments must be on time, and a formal application must be filed. Approval rates are often very low.
+Some lenders (particularly student loan servicers) offer cosigner release after a period of on-time payments by the primary borrower - typically 12-48 consecutive payments. Requirements usually include: the primary borrower must meet credit criteria independently, all payments must be on time, and a formal application must be filed. Approval rates are often very low.
 
 Auto lenders and credit card companies almost never offer cosigner release. Once you cosign, you are typically obligated until the debt is paid in full, refinanced, or discharged.
 
 Bankruptcy and Cosigners
 
-When the primary borrower files Chapter 7 bankruptcy, the cosigner gets no protection. The borrower's obligation is discharged, but the creditor can pursue the cosigner for the full amount. When the primary borrower files Chapter 13, the codebtor stay protects the cosigner during the plan -- creditors cannot collect from the cosigner as long as the plan is paying the debt.
+When the primary borrower files Chapter 7 bankruptcy, the cosigner gets no protection. The borrower's obligation is discharged, but the creditor can pursue the cosigner for the full amount. When the primary borrower files Chapter 13, the codebtor stay protects the cosigner during the plan - creditors cannot collect from the cosigner as long as the plan is paying the debt.
 
 If the cosigner files bankruptcy: the cosigner's obligation is discharged, but the primary borrower remains liable. Filing bankruptcy protects only the person who files. Compare Chapter 7 and Chapter 13.
 
@@ -949,7 +1032,7 @@ Protecting Yourself Before Cosigning
 
 1. Understand you may pay the entire debt. 2. Can you afford the payment? If the answer is no, do not cosign. 3. Request copies of all statements sent to you simultaneously. 4. Set up account alerts so you know immediately if a payment is missed. 5. Get a written agreement with the primary borrower about responsibilities. 6. Ask about cosigner release provisions before signing.
 
-The best protection is to not cosign at all. If you feel obligated, consider making a gift instead -- at least then you know the exact amount at risk.
+The best protection is to not cosign at all. If you feel obligated, consider making a gift instead - at least then you know the exact amount at risk.
 
 When a Cosigned Debt Goes to Collections
 
@@ -965,31 +1048,31 @@ Generally no. You cannot unilaterally remove yourself from a cosigned loan. Opti
 
 Does the primary borrower's bankruptcy affect my credit?
 
-Not directly -- their bankruptcy appears only on their credit report. However, if they stop paying the cosigned debt as part of the bankruptcy, and the creditor reports you as delinquent, your credit will suffer from the missed payments and collection activity.
+Not directly - their bankruptcy appears only on their credit report. However, if they stop paying the cosigned debt as part of the bankruptcy, and the creditor reports you as delinquent, your credit will suffer from the missed payments and collection activity.
 
 Am I liable for the full amount or just half?
 
-You are liable for the full amount. Cosigner liability is joint and several -- the creditor can collect 100% from either person. There is no automatic split of responsibility.
+You are liable for the full amount. Cosigner liability is joint and several - the creditor can collect 100% from either person. There is no automatic split of responsibility.
 
 Explore Our Guides
 
-Cosigner vs. Co-Borrower -- Understand the legal difference between a cosigner and co-borrower. Different rights, responsibilities, and credit impac
+Cosigner vs. Co-Borrower - Understand the legal difference between a cosigner and co-borrower. Different rights, responsibilities, and credit impac
 
-Cosigner Protections by State -- State laws provide varying levels of cosigner protection. Some states require notice before pursuing cosigners, others l
+Cosigner Protections by State - State laws provide varying levels of cosigner protection. Some states require notice before pursuing cosigners, others l
 
-How to Remove Yourself as a Cosigner -- Options for getting off a cosigned loan. Cosigner release programs, refinancing, negotiation strategies, and when bankru
+How to Remove Yourself as a Cosigner - Options for getting off a cosigned loan. Cosigner release programs, refinancing, negotiation strategies, and when bankru
 
-Cosigner and Bankruptcy -- When one party files bankruptcy on a cosigned loan, the other remains liable. Chapter 13 codebtor stay provides temporar
+Cosigner and Bankruptcy - When one party files bankruptcy on a cosigned loan, the other remains liable. Chapter 13 codebtor stay provides temporar
 
-The Codebtor Stay in Chapter 13 -- The Chapter 13 codebtor stay prevents creditors from pursuing cosigners during the repayment plan. Learn how it works, i
+The Codebtor Stay in Chapter 13 - The Chapter 13 codebtor stay prevents creditors from pursuing cosigners during the repayment plan. Learn how it works, i
 
-Student Loan Cosigner Rights -- Cosigning a student loan carries unique risks. No bankruptcy discharge, limited release options, and full liability if t
+Student Loan Cosigner Rights - Cosigning a student loan carries unique risks. No bankruptcy discharge, limited release options, and full liability if t
 
-Auto Loan Cosigner Risks -- Cosigning an auto loan exposes you to full liability, deficiency balances after repossession, and credit damage. Know yo
+Auto Loan Cosigner Risks - Cosigning an auto loan exposes you to full liability, deficiency balances after repossession, and credit damage. Know yo
 
-Cosigner Release Programs -- Some lenders offer cosigner release after a period of on-time payments. Requirements, process, and alternatives if relea
+Cosigner Release Programs - Some lenders offer cosigner release after a period of on-time payments. Requirements, process, and alternatives if relea
 
-Cosigner Liability Limits -- Understand the full scope of cosigner liability. Principal, interest, fees, penalties, collection costs, and attorney fe
+Cosigner Liability Limits - Understand the full scope of cosigner liability. Principal, interest, fees, penalties, collection costs, and attorney fe
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -1025,10 +1108,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -1070,7 +1153,7 @@ serialfiler.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1184,9 +1267,9 @@ Thank you! We typically respond within one business day.
 
 You May Also Find Helpful
 
-Cosigner Release -- How to Get Released from a Cosigned Loan
+Cosigner Release - How to Get Released from a Cosigned Loan
 
-Cosigner Rights in Bankruptcy -- Co-Debtor Stay Protection
+Cosigner Rights in Bankruptcy - Co-Debtor Stay Protection
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
@@ -1209,6 +1292,7 @@ Means Test
 File Without a Lawyer
 Rebuild Credit
 cosignerrights.org
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -1222,9 +1306,11 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
-## Cosigner Liability Limits -- How Much Can You Actually Owe? -- Cosignerrights
+## Cosigner Liability Limits - How Much Can You Actually Owe? - Cosignerrights
 Source: https://cosignerrights.org/liability-limits.html
 
 Cosigner Liability Limits
@@ -1237,7 +1323,7 @@ What Your Cosigner Agreement Covers
 
 Your liability as a cosigner extends to everything in the loan agreement: the original principal balance, all accrued interest, late fees, penalty charges, collection costs, and attorney fees if the lender sues. Some agreements even include a provision making the cosigner liable for costs of repossession and liquidation of collateral.
 
-Read your cosigner agreement carefully. The most important clause is the scope of guarantee -- does it cover only the original loan, or does it also cover modifications, extensions, and renewals? Some guarantees are "continuing," meaning they survive loan modifications that increase the balance or extend the term.
+Read your cosigner agreement carefully. The most important clause is the scope of guarantee - does it cover only the original loan, or does it also cover modifications, extensions, and renewals? Some guarantees are "continuing," meaning they survive loan modifications that increase the balance or extend the term.
 
 How Liability Grows Over Time
 
@@ -1255,7 +1341,7 @@ Frequently Asked Questions
 
 Is there a maximum amount I can owe as a cosigner?
 
-Unless your cosigner agreement includes a specific cap, your liability is unlimited up to the full balance plus interest, fees, and costs. This is why cosigning is so risky -- a $20,000 loan can become a $40,000+ liability.
+Unless your cosigner agreement includes a specific cap, your liability is unlimited up to the full balance plus interest, fees, and costs. This is why cosigning is so risky - a $20,000 loan can become a $40,000+ liability.
 
 Am I liable for interest that accrues after the borrower defaults?
 
@@ -1263,7 +1349,7 @@ Yes. Interest continues to accrue on the full balance even after default. Some l
 
 Can a creditor garnish my wages for cosigned debt?
 
-After obtaining a court judgment, yes. The creditor can garnish up to 25% of your disposable wages (federal limit). Some states have lower limits. This is one of the most serious consequences of cosigner liability -- your paycheck can be directly affected by someone else's failure to pay.
+After obtaining a court judgment, yes. The creditor can garnish up to 25% of your disposable wages (federal limit). Some states have lower limits. This is one of the most serious consequences of cosigner liability - your paycheck can be directly affected by someone else's failure to pay.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -1293,10 +1379,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -1374,7 +1460,320 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## How to Remove Yourself as a Cosigner -- Cosignerrights
+## How to Protect Yourself as a Cosigner in Bankruptcy - Cosignerrights
+Source: https://cosignerrights.org/protect-yourself.html
+
+Open Bankruptcy Project › cosignerrights.org › Protect Yourself
+
+How to Protect Yourself as a Cosigner in Bankruptcy
+
+When someone you cosigned for files bankruptcy, you do not get a discharge. Here is everything you need to know about your exposure, your rights, and your options.
+
+1. The Fundamental Problem for Cosigners
+
+When you cosign a loan, you make an independent promise to the creditor. Your obligation is separate from the primary borrower's obligation. If the borrower files bankruptcy and receives a discharge, the discharge only eliminates their personal liability. Your liability remains completely intact.
+
+This is one of the most misunderstood aspects of bankruptcy law. Many cosigners believe they are protected when the borrower files. They are not - at least not automatically, and not in all chapters.
+
+2. Chapter 7 vs. Chapter 13 - Why It Matters for Cosigners
+
+The chapter the borrower files under makes a significant difference in what happens to you as the cosigner.
+
+Chapter 7 (Liquidation)
+
+In Chapter 7, there is no codebtor stay. The moment the borrower files, you lose nothing - but you also gain nothing. The creditor can immediately begin collection efforts against you. The borrower's Chapter 7 case typically lasts 3-4 months, during which their personal liability is eliminated. Yours is not.
+
+Key risk: If the borrower had been making payments and stops upon filing Chapter 7, the creditor will turn to you immediately. You could face collection calls, lawsuits, and wage garnishment within weeks of the filing.
+
+Chapter 13 (Reorganization)
+
+Chapter 13 provides the codebtor stay under 11 U.S.C. section 1301. This is an automatic protection that temporarily prevents creditors from collecting against cosigners on consumer debts while the Chapter 13 case is active. The codebtor stay is one of the primary reasons debtors with cosigned debts choose Chapter 13 over Chapter 7.
+
+Key benefit: If the borrower's Chapter 13 plan proposes to pay the cosigned debt in full, you are protected for the entire 3-5 year plan period and beyond.
+
+3. The Codebtor Stay - 11 U.S.C. Section 1301
+
+11 U.S.C. section 1301(a): "A creditor may not act, or commence or continue any civil action, to collect all or any part of a consumer debt of the debtor from any individual that is liable on such debt with the debtor..."
+
+The codebtor stay is powerful but has important limitations:
+
+It only applies to consumer debts - not business debts.
+
+It only applies in Chapter 13 cases (and Chapter 12 for family farmers/fishermen).
+
+It is temporary - it lasts only as long as the Chapter 13 case is active.
+
+It can be lifted by the court upon motion by the creditor.
+
+It does not apply if the cosigner became liable in the ordinary course of business.
+
+4. When Creditors Can Still Pursue Cosigners During Chapter 13
+
+Even with the codebtor stay in effect, creditors can file a motion for relief under section 1301(c). The court must grant relief in three situations:
+
+The cosigner received the consideration - if you (the cosigner) actually received the benefit of the loan proceeds, the stay does not protect you.
+
+The plan does not propose to pay the claim - if the borrower's repayment plan does not include full payment of the cosigned debt, the creditor can seek relief to collect the unpaid portion from you.
+
+Irreparable harm to the creditor - if the creditor would be irreparably harmed by the continuation of the stay, the court can lift it.
+
+In practice, the most common basis is #2. If the Chapter 13 plan only pays 50% of the cosigned debt, the creditor can get relief from the stay to pursue you for the remaining 50%.
+
+5. What Happens When the Chapter 13 Case Ends
+
+The codebtor stay terminates when the Chapter 13 case ends, whether by discharge, dismissal, or conversion to Chapter 7.
+
+Discharge with full payment: If the plan paid the cosigned debt in full, there is nothing left for the creditor to collect from you.
+
+Discharge with partial payment: You owe the remaining balance. The creditor can now pursue you.
+
+Dismissal: The codebtor stay dissolves immediately. The creditor can pursue you for the full outstanding balance.
+
+Conversion to Chapter 7: The codebtor stay terminates. Chapter 7 has no codebtor stay, so you are immediately exposed.
+
+6. Reaffirmation Agreements and How They Affect Cosigners
+
+A reaffirmation agreement is a contract between the borrower and creditor in a Chapter 7 case where the borrower agrees to remain personally liable for the debt despite the discharge. Reaffirmation agreements are governed by 11 U.S.C. section 524(c).
+
+How this helps cosigners: If the borrower reaffirms the debt, they continue to be liable and (presumably) continue making payments. As long as payments continue, the creditor has no reason to pursue you.
+
+How this can hurt cosigners: Reaffirmation agreements are voluntary. The borrower is under no obligation to sign one. If the borrower's attorney advises against reaffirmation (which is common when the debt exceeds the collateral value), the borrower may decline, leaving you fully exposed.
+
+Important: You cannot force the borrower to sign a reaffirmation agreement. You have no standing to participate in the reaffirmation process. Your only leverage is the personal relationship.
+
+7. Negotiating Directly with the Creditor
+
+As a cosigner, you have the right to negotiate directly with the creditor at any time. This is often your best option when the borrower files Chapter 7 and declines to reaffirm. Strategies include:
+
+Payment plan: Request a modified payment schedule that fits your budget. Creditors often prefer a payment plan over litigation costs.
+
+Lump sum settlement: Offer a reduced lump sum payment. Creditors may accept 40-70% of the balance to avoid the time and expense of collection.
+
+Hardship program: Some lenders have internal hardship programs that reduce interest rates or temporarily lower payments.
+
+Written agreement: Get any agreement in writing before making payments. Verbal promises are difficult to enforce.
+
+Timing matters. Negotiate early - before the account goes to collections or a lawsuit is filed. Once a judgment is entered, your leverage decreases significantly.
+
+8. Cosigner Liability on Different Types of Debt
+
+Debt TypeCodebtor Stay (Ch. 13)?Cosigner Exposure After Discharge
+
+Auto loanYes (consumer debt)Deficiency balance if vehicle surrendered
+
+Student loan (private)Yes (consumer debt)Full balance (student loans rarely discharged)
+
+Personal loanYes (consumer debt)Full remaining balance
+
+Credit card (authorized user)Depends on agreementUsually none - authorized users differ from cosigners
+
+Business loanNo (not consumer debt)Full balance - no codebtor protection in any chapter
+
+MortgageYes (consumer debt)Deficiency if foreclosed; full balance if not paid
+
+9. Your Rights Under the FDCPA
+
+If the debt has been sent to a third-party collector, you have rights under the Fair Debt Collection Practices Act (FDCPA), 15 U.S.C. section 1692 et seq. These include:
+
+The right to request debt validation within 30 days of first contact.
+
+Protection from harassment, threats, and unfair practices.
+
+The right to request that the collector cease communication (though this does not eliminate the debt).
+
+The right to dispute the debt and require the collector to verify it before continuing collection.
+
+Note: The FDCPA applies only to third-party debt collectors, not to the original creditor collecting its own debt.
+
+10. When Filing Your Own Bankruptcy May Be the Answer
+
+If the cosigned debt is large enough and your financial situation is dire enough, filing your own bankruptcy may be the most effective protection. Consider this option when:
+
+The cosigned debt exceeds your ability to pay.
+
+You have other debts that are also unmanageable.
+
+A lawsuit or wage garnishment has been filed against you.
+
+You are insolvent (your total debts exceed your total assets).
+
+In your own Chapter 7, the cosigned debt would be discharged just like any other unsecured debt (assuming it is not secured by property you want to keep). In Chapter 13, you could pay a portion of it over 3-5 years.
+
+11. The Statute of Limitations on Cosigned Debt
+
+Every state has a statute of limitations on debt collection - the window during which a creditor can sue you. For most consumer debts, this ranges from 3 to 10 years, depending on the state and the type of debt (written contract, oral agreement, promissory note).
+
+Once the statute of limitations expires, the creditor can no longer sue you. However:
+
+The debt still exists. The creditor can still contact you (unless you dispute under the FDCPA).
+
+Making a payment or acknowledging the debt in writing can restart the clock in many states.
+
+The statute of limitations is an affirmative defense - you must raise it in court if sued.
+
+12. Cosigner Release Programs
+
+Some lenders - particularly private student loan companies - offer cosigner release programs. After the primary borrower makes a specified number of consecutive on-time payments (typically 12-48 months) and meets certain credit criteria, the lender may release the cosigner from liability.
+
+Reality check: Approval rates for cosigner release are very low. Lenders often find reasons to deny the request. Still, it is worth asking about and pursuing if available.
+
+13. Impact on Your Credit Score
+
+A cosigned account appears on your credit report. Any negative activity - missed payments, default, charge-off, bankruptcy filing by the borrower - will appear on your credit report as well.
+
+Late payments by the borrower affect your credit score directly.
+
+Charge-off or collection status on the account will remain on your report for 7 years.
+
+The borrower's bankruptcy itself does not appear on your credit report, but the account status changes do.
+
+Paying off the cosigned debt or having it discharged in your own bankruptcy will eventually improve your score.
+
+14. Contribution and Indemnification Rights
+
+If you pay the cosigned debt, you may have a legal right to seek reimbursement from the borrower. This is called a right of contribution or indemnification.
+
+However, if the borrower received a bankruptcy discharge, your right to collect from them has been eliminated. The discharge injunction under 11 U.S.C. section 524(a) permanently bars you from collecting the discharged debt from the borrower, even if you paid it on their behalf.
+
+Critical point: Do not file a lawsuit against the borrower to recover what you paid on the cosigned debt after they receive a discharge. This would violate the discharge injunction and could expose you to contempt sanctions.
+
+15. Proactive Steps Every Cosigner Should Take
+
+Monitor the account. Set up alerts so you know immediately if a payment is missed.
+
+Communicate with the borrower. If they are struggling, find out before they file bankruptcy.
+
+Build an emergency fund. Set aside money to cover the cosigned debt if the borrower defaults.
+
+Know your state's statute of limitations. Understand your exposure timeline.
+
+Consult a bankruptcy attorney early. If the borrower is heading toward bankruptcy, get legal advice before the filing happens - not after.
+
+Document everything. Keep records of all payments you make, communications with the creditor, and agreements.
+
+Request cosigner release if the lender offers such a program.
+
+Consider your own bankruptcy options if the debt is overwhelming and you have other financial problems.
+
+16. Special Situations
+
+Cosigner on a Mortgage
+
+If the borrower files bankruptcy and surrenders the home, the mortgage lender can seek a deficiency judgment against you for the difference between the sale price and the loan balance. Some states are non-recourse or anti-deficiency, which may limit this exposure.
+
+Cosigner on Student Loans
+
+Private student loans with a cosigner are among the riskiest cosigning situations. Student loans are rarely dischargeable in bankruptcy (the borrower must prove undue hardship), so the debt may survive the borrower's bankruptcy entirely - and you remain liable.
+
+Parent PLUS Loans
+
+Federal Parent PLUS loans are the parent's obligation, not the student's. The parent cannot transfer liability to the student. If the parent files bankruptcy, the student is not affected. If the student files bankruptcy, the parent's obligation is unaffected.
+
+Cosigner When Both Spouses File
+
+If a married couple cosigned a debt and both file bankruptcy jointly, the codebtor stay (in Chapter 13) or discharge (in Chapter 7) applies to both. No outside cosigner is affected by this, but both spouses' liability is addressed.
+
+17. Summary - Cosigner Protection by Chapter
+
+FactorChapter 7Chapter 13
+
+Codebtor stayNoneAutomatic (section 1301)
+
+Creditor can pursue cosigner during caseYes, immediatelyOnly if stay is lifted
+
+Cosigner protected after dischargeOnly if debt paid in fullOnly if plan paid debt in full
+
+Reaffirmation availableYesNot applicable
+
+Typical case duration3-4 months3-5 years
+
+Best for cosignerIf debt is reaffirmedIf plan pays 100% of cosigned debt
+
+Frequently Asked Questions
+
+Does the codebtor stay protect cosigners in Chapter 7?
+
+No. The codebtor stay under 11 U.S.C. section 1301 only applies in Chapter 13 cases. In Chapter 7, creditors can immediately pursue the cosigner for the full balance once the primary borrower files.
+
+Can a creditor still sue me if the borrower files Chapter 13?
+
+The codebtor stay temporarily protects cosigners, but the creditor can file a motion for relief if the debt is not being paid through the plan, if you received the benefit of the loan, or if the creditor would be irreparably harmed.
+
+Does a reaffirmation agreement protect the cosigner?
+
+Indirectly. If the borrower reaffirms, they continue payments. But the reaffirmation is between the borrower and creditor - it does not create new legal protections for you as cosigner.
+
+Am I responsible for the full debt if the borrower gets a discharge?
+
+Yes. A bankruptcy discharge only eliminates the borrower's personal liability. Your obligation as cosigner is independent and unaffected by the discharge.
+
+What is the best way to protect myself as a cosigner?
+
+Communicate early with the creditor and borrower. Monitor the account. Negotiate payment plans or settlements. Consider your own bankruptcy if the debt is unmanageable. Consult a bankruptcy attorney for your specific situation.
+
+Related Resources
+
+Vacating Judgments After Bankruptcy
+How to remove judgment liens after filing
+
+Bankruptcy vs. Debt Settlement
+Side-by-side comparison of your options
+
+Bankruptcy During Divorce
+How joint debts and cosigned obligations interact
+
+Default Judgment - What Happens Next
+If a creditor gets a judgment against you
+
+Open Bankruptcy Project
+Free bankruptcy information and tools
+
+Need to understand your exposure as a cosigner?
+
+Use our free tools to learn about your rights and options.
+
+Visit Open Bankruptcy Project
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## How to Remove Yourself as a Cosigner - Cosignerrights
 Source: https://cosignerrights.org/removing-cosigner.html
 
 How to Remove Yourself as a Cosigner
@@ -1385,7 +1784,7 @@ Home » How to Remove Yourself as a Cosigner
 
 Cosigner Release Programs
 
-Some lenders offer formal cosigner release after the primary borrower meets certain conditions -- typically 24-48 consecutive on-time payments and a credit check showing the borrower qualifies independently. Federal student loan servicers (like Sallie Mae and Navient) sometimes offer cosigner release after 12-48 payments.
+Some lenders offer formal cosigner release after the primary borrower meets certain conditions - typically 24-48 consecutive on-time payments and a credit check showing the borrower qualifies independently. Federal student loan servicers (like Sallie Mae and Navient) sometimes offer cosigner release after 12-48 payments.
 
 To request cosigner release: contact the lender directly, ask about their cosigner release policy, and submit the required application. The primary borrower will need to demonstrate they can handle the loan independently. Not all lenders offer this option, and approval rates vary.
 
@@ -1443,10 +1842,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -1524,7 +1923,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Student Loan Cosigner Rights and Risks -- Cosignerrights
+## Student Loan Cosigner Rights and Risks - Cosignerrights
 Source: https://cosignerrights.org/student-loan-cosigner.html
 
 Student Loan Cosigner Rights
@@ -1535,13 +1934,13 @@ Home » Student Loan Cosigner Rights
 
 The Unique Risk of Student Loan Cosigning
 
-Student loans are the riskiest type of debt to cosign for two reasons: the amounts are typically large ($20,000-200,000+), and student loans are extremely difficult to discharge in bankruptcy. Unlike credit card or auto loan debt, you generally can't escape student loan liability through bankruptcy -- neither the borrower nor the cosigner.
+Student loans are the riskiest type of debt to cosign for two reasons: the amounts are typically large ($20,000-200,000+), and student loans are extremely difficult to discharge in bankruptcy. Unlike credit card or auto loan debt, you generally can't escape student loan liability through bankruptcy - neither the borrower nor the cosigner.
 
 Private student loans (not federal) are the ones that require cosigners. Approximately 90% of private student loans involve a cosigner. If the borrower defaults, the cosigner is pursued for the full balance, which may have grown substantially with interest since disbursement.
 
 Cosigner Release for Student Loans
 
-Most private student loan lenders offer cosigner release programs, but the requirements are strict: typically 24-48 consecutive on-time payments, a credit check showing the primary borrower qualifies independently, and sometimes a minimum income threshold. Approval rates are low -- some lenders deny 90%+ of cosigner release applications.
+Most private student loan lenders offer cosigner release programs, but the requirements are strict: typically 24-48 consecutive on-time payments, a credit check showing the primary borrower qualifies independently, and sometimes a minimum income threshold. Approval rates are low - some lenders deny 90%+ of cosigner release applications.
 
 If cosigner release is denied, the alternatives are: having the borrower refinance (several lenders specialize in this), continuing to make payments until the loan is paid off, or if you're in financial distress, exploring whether the loan might qualify for the Brunner test hardship discharge.
 
@@ -1593,10 +1992,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -1674,81 +2073,72 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Cosigner Release for Student Loans -- How to Remove a Cosigner [2026] -- Cosignerrights
-Source: https://cosignerrights.org/cosigner-release-student-loans.html
+## Privacy Policy - cosignerrights.org
+Source: https://cosignerrights.org/privacy.html
 
-Cosigner Release for Student Loans
+cosignerrights.org
 
-How to remove a cosigner from your student loans -- and what to do if the lender says no
+Home
+Privacy
 
-Home » Cosigner Release » Student Loans
+Privacy Policy
 
-What Is Cosigner Release for Student Loans?
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
 
-Cosigner release is a process where the lender removes the cosigner from a private student loan after the primary borrower meets certain conditions. This frees the cosigner from liability -- if the borrower defaults, the lender can no longer pursue the cosigner for payment.
+Data We Collect
 
-Important: federal student loans do not have cosigners. Federal Parent PLUS loans are the parent's obligation, not cosigned. Cosigner release only applies to private student loans from lenders like Sallie Mae, Discover, Citizens Bank, Earnest, and others.
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
 
-Lender Cosigner Release Requirements
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
 
-Each lender sets its own cosigner release criteria. Common requirements include:
+What We Don't Do
 
-12-48 consecutive on-time payments (most common: 24 or 36 months)
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
 
-Primary borrower meets minimum credit score (typically 670-700)
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
 
-Primary borrower meets income requirements (debt-to-income ratio)
+Cookies
 
-No delinquencies on any credit account (not just the student loan)
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
 
-Loan must be in active repayment (not in deferment or forbearance)
+Third-Party Services
 
-LenderPayments RequiredCredit ScoreAuto Release?
+Google Analytics (GA4) - aggregate traffic measurement
 
-Sallie Mae12 consecutiveNot disclosedNo -- must apply
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
 
-Discover24 consecutiveNot disclosedNo -- must apply
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
 
-Citizens Bank36 consecutiveNot disclosedNo -- must apply
+GitHub Pages - hosting
 
-College Ave24 consecutiveNot disclosedNo -- must apply
+Contact Forms & Email
 
-If Cosigner Release Is Denied: Alternatives
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
 
-Refinancing is often easier than cosigner release. The primary borrower applies for a new loan in their name only from a different lender, using the proceeds to pay off the cosigned loan. Lenders like SoFi, Earnest, and Splash Financial offer student loan refinancing without a cosigner if you meet their credit and income requirements.
+Children's Privacy
 
-Other options: accelerate payments to reduce balance faster, wait and reapply after building more credit history, or consult a bankruptcy attorney if the debt is causing severe financial hardship.
+This site is not directed at children under 13. We do not knowingly collect information from children.
 
-Cosigner Liability and Bankruptcy
+Data Retention
 
-If the primary borrower files bankruptcy, the cosigner remains liable for the full loan balance. Private student loans may be dischargeable in bankruptcy under the Brunner test (undue hardship), but even if the borrower obtains a discharge, the cosigner's obligation survives. The cosigner would need to file their own bankruptcy to discharge their liability.
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
 
-Chapter 13 bankruptcy provides a codebtor stay that temporarily protects cosigners from collection during the case. Chapter 7 does not offer this protection.
+Your Rights
 
-Frequently Asked Questions
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
 
-How do I get a cosigner release on my student loans?
+Network Policy
 
-Contact your lender to request a cosigner release application. You must typically have made 12-48 consecutive on-time payments, meet a minimum credit score, and demonstrate sufficient income. The process takes 2-4 weeks. If denied, refinancing in your name only is an alternative.
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
-What percentage of cosigner release applications are approved?
+Changes
 
-Approval rates are low -- consumer advocates estimate 10-20% for some lenders. Lenders benefit from keeping cosigners as additional security. Be prepared for denial and have a backup plan such as refinancing.
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
 
-Can I remove a cosigner from a federal student loan?
+Effective: March 30, 2026  |  Updated: April 11, 2026
 
-Federal student loans do not have cosigners. Parent PLUS loans are the parent's sole obligation. The only way to move a Parent PLUS loan to the student is through refinancing with a private lender.
+Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Check your bankruptcy discharge eligibility with our free screening tool.
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
 
-Free Discharge Screener
-
-About This Data: Content based on federal consumer protection law and lender-published cosigner release policies. This is educational content, not legal advice.
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener
-Codebtor Stay
-Student Loan Forgiveness
-
-Free education. Not legal advice. A project of the Open Bankruptcy Project.
+No ads. No affiliate links. No data sold. Supported by donations.
